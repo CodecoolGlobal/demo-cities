@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCool.Cities.WebApi", "CodeCool.Cities.WebApi.csproj", "{EB4C289B-CC4D-4D62-93F7-54C62A621F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codecool.Cities.Webapi.Test", "..\Codecool.Cities.Webapi.Test\Codecool.Cities.Webapi.Test.csproj", "{9DF23253-7844-4C9B-9D96-88EAD3704E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4C289B-CC4D-4D62-93F7-54C62A621F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4C289B-CC4D-4D62-93F7-54C62A621F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4C289B-CC4D-4D62-93F7-54C62A621F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4C289B-CC4D-4D62-93F7-54C62A621F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF23253-7844-4C9B-9D96-88EAD3704E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF23253-7844-4C9B-9D96-88EAD3704E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF23253-7844-4C9B-9D96-88EAD3704E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF23253-7844-4C9B-9D96-88EAD3704E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E34D8800-D0BA-4481-B6D6-1AABB7BFD10B}
+	EndGlobalSection
+EndGlobal
