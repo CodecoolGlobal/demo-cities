@@ -2,6 +2,6 @@
 {
     public class CityDataStore
     {
-
+        public List<City> Citys { get; set; }
     }
 }
