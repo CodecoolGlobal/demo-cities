@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CodeCool.Cities.WebApi.Controllers
 {
-    [Route("api/city")]
+    [Route("/")]
     [ApiController]
     public class CityController : ControllerBase
     {

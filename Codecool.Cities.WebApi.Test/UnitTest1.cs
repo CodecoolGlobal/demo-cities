@@ -13,6 +13,6 @@ public class UnitTest1
 
         var response = await httpClient.GetAsync("api/city");
         var stringResult = await response.Content.ReadAsStringAsync();
-        Assert.IsNotNull(stringResult);
+        Assert.IsNull(stringResult);
     }
 }
