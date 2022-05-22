@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'demo-cities'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1879FAE427AD4DC5BCF087F42269C729 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8017B55E6FF42EABB220EBEF35C481D }}
           package: .
